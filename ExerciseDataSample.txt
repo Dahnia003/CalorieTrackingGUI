@@ -1,0 +1,20 @@
+E0000001-Running-Running-30-Medium-01/15/2025-06:30 PM
+E0000002-Cycling-Cycling-45-High-01/16/2025-07:00 AM
+E0000003-Swimming-Swimming-60-Low-01/17/2025-05:30 PM
+E0000004-Jogging-Running-25-Medium-01/18/2025-06:00 AM
+E0000005-Yoga-Yoga-50-Low-01/19/2025-08:00 AM
+E0000006-Weightlifting-Strength Training-40-High-01/20/2025-07:15 AM
+E0000007-Pilates-Yoga-45-Medium-01/21/2025-06:00 PM
+E0000008-Boxing-Fitness-30-High-01/22/2025-05:30 PM
+E0000009-Tennis-Sport-60-High-01/23/2025-02:00 PM
+E0000010-Rowing-Fitness-35-Medium-01/24/2025-07:00 AM
+E0000011-Walking-Walking-60-Low-01/25/2025-08:30 AM
+E0000012-Hiking-Sport-90-High-01/26/2025-10:00 AM
+E0000013-Dancing-Dance-50-Medium-01/27/2025-06:45 PM
+E0000014-Jumping Rope-Fitness-20-High-01/28/2025-07:30 AM
+E0000015-Stair Climbing-Fitness-30-Medium-01/29/2025-06:30 PM
+E0000016-Surfing-Sport-60-Medium-01/30/2025-12:00 PM
+E0000017-Triathlon-Triathlon-120-High-01/31/2025-08:00 AM
+E0000018-Kickboxing-Fitness-45-High-01/01/2025-07:00 PM
+E0000019-Archery-Sport-60-Low-01/02/2025-10:00 AM
+E0000020-Skateboarding-Sport-30-Medium-01/03/2025-04:00 PM
